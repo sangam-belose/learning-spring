@@ -1,0 +1,3 @@
+2021-04-28 21:01:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ROOM" not found; SQL statement:
+select room0_.room_id as room_id1_2_0_, room0_.bed_info as bed_info2_2_0_, room0_.name as name3_2_0_, room0_.room_number as room_num4_2_0_ from room room0_ where room0_.room_id=? [42102-200]
